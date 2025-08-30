@@ -58,11 +58,5 @@ This project was an iterative journey in Natural Language Processing (NLP).
 
 
 
-\## 🧠 Challenges \& Learnings
 
-\* \*\*Model Selection:\*\* Learned the critical difference between simple sentiment analysis and advanced emotion classification, and the importance of using a model trained on a relevant dataset (social media vs. formal text).
-
-\* \*\*API Quotas:\*\* Gained experience working with API limitations and writing efficient code to batch requests and manage usage.
-
-\* \*\*Memory Management:\*\* Overcame backend crashes by optimizing the analysis pipeline to process comments in batches, preventing memory overload from the large AI model.
 
