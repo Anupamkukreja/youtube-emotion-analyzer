@@ -43,6 +43,7 @@ tokenizers==0.21.4
 torch==2.8.0
 tqdm==4.67.1
 transformers==4.55.4
+gunicorn
 typing_extensions==4.15.0
 uritemplate==4.2.0
 urllib3==2.5.0
